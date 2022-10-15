@@ -1,3 +1,4 @@
+//UC => 4 
 window.addEventListener('DOMContentLoaded', (event) => {
     validateInputs();
 })
